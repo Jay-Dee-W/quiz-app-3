@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2C3A47;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+ 
+}

@@ -1,0 +1,10 @@
+.Results {
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    margin: 10%;
+}
+
+.Results > p{
+    margin: 2%;
+}

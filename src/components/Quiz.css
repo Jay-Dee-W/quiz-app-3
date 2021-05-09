@@ -1,0 +1,43 @@
+
+.quiz{
+    padding: 150px;
+    height: 100vh;
+    
+  }
+  
+  .score {
+    padding: 10px;
+  }
+  
+  .question{
+    padding: 10px;
+  }
+  
+  .answers{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+  }
+  
+  .correct-answer {
+    background: green;
+  }
+  
+  .incorrect-answer{
+    background: red;
+  }
+  
+  button {
+    border: 1px solid black;
+    padding: 10px;
+    background: transparent;
+    color: white;
+    font-size: 1em;
+  }
+  
+  .Timer {
+   
+    height: 3%;
+    background: green;
+  }
